@@ -1,4 +1,4 @@
-module github.com/fadymondy/seo-head
+module github.com/togo-framework/seo-head
 
 go 1.26.4
 

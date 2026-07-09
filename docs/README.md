@@ -2,13 +2,13 @@
 
 Runtime <head> manager: editable title/meta/OG/Twitter, Person & WebSite JSON-LD, canonical, hreflang alternates and the markdown-twin link for answer engines.
 
-- **Source:** https://github.com/fadymondy/seo-head
+- **Source:** https://github.com/togo-framework/seo-head
 - **Reference app:** https://fadymondy.com
 
 ## Install
 
 ```bash
-togo install fadymondy/seo-head
+togo install togo-framework/seo-head
 ```
 
 The plugin self-registers on blank-import (no manual wiring). See the top-level
